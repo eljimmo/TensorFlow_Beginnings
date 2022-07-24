@@ -1,0 +1,14 @@
+Neural Networks r cool
+
+building classifiers between data points 
+
+data can be messy, neural networks can find patterns and groups in datasets
+
+all start with an input layer 2 dimensional, just be x coordinate and y coordinate data point
+
+
+all neural networks have hidden layers, they are neurons, they connect and communicate with input layer
+like a human brain 
+
+they transfer information to a output layer, which determines a point's classsifaction
+
