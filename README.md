@@ -26,3 +26,8 @@ prediction and classification
 Tensors is a vector or matrix of 'n dimensions 
 
 If you really want to learn something get a white board and start writting your down down before you type anything.
+
+
+(train_images, train_labels), (test_images, test_labels) = example_data.load_data()
+
+;)
