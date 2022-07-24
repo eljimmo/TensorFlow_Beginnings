@@ -24,3 +24,5 @@ prediction and classification
 
 
 Tensors is a vector or matrix of 'n dimensions 
+
+If you really want to learn something get a white board and start writting your down down before you type anything.
