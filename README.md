@@ -30,4 +30,6 @@ If you really want to learn something get a white board and start writting your 
 
 (train_images, train_labels), (test_images, test_labels) = example_data.load_data()
 
+usage --->  (x_train, y_train), (x_test, y_test) = tf.keras.datasets.mnist.load_data()
+
 ;)
