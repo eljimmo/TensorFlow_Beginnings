@@ -10,7 +10,7 @@ $ pip install tensorflow
 ****code pipline takes pattern of pre-process your data, build a model, then train the model in a training loops, save the training model as a binary file***
 
 
-- TensorFlow patern as describe by offical team
+- TensorFlow pattern as describe by offical team
 
 1. Data pre procssing 
 2. Data Ingestion
