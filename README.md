@@ -33,3 +33,5 @@ If you really want to learn something get a white board and start writting your 
 usage --->  (x_train, y_train), (x_test, y_test) = tf.keras.datasets.mnist.load_data()
 
 ;)
+
+https://www.tensorflow.org/tutorials/keras/classification
